@@ -24,5 +24,6 @@ public class Nameage {
        Address ("Cristo Rey ,Capas,Tarlac");    
        Year ("3rd year college");
        Year ("From Tarlac State University");
+           Year ("tsm 3c");
 }
 }
